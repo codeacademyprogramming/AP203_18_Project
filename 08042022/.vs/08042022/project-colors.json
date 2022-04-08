@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6832556a-e954-4951-aa6d-9db561a74cfc": {
+      "ProjectGuid": "6832556a-e954-4951-aa6d-9db561a74cfc",
+      "DisplayName": "Models",
+      "ColorIndex": 0
+    },
+    "7db82174-61a0-4f6e-b543-59ca47d5389f": {
+      "ProjectGuid": "7db82174-61a0-4f6e-b543-59ca47d5389f",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "a16388c2-c6a8-4f90-a7ad-f073d24896a3": {
+      "ProjectGuid": "a16388c2-c6a8-4f90-a7ad-f073d24896a3",
+      "DisplayName": "HR_System",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
